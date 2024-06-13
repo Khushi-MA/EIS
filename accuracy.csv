@@ -1,0 +1,950 @@
+Folder,VGG19 Accuracy,ResNet50 Accuracy,MobileNetV3 Accuracy,InceptionV3 Accuracy
+"screen, crt screen",0.16,0.16,0.12,0.18
+velvet,0.12,0.14,0.16,0.22
+monitor,0.1,0.28,0.18,0.28
+tiger cat,0.26,0.16,0.22,0.26
+windsor tie,0.2,0.2,0.22,0.32
+"letter opener, paper knife, paperknife",0.22,0.18,0.3,0.26
+water jug,0.1,0.28,0.26,0.32
+"laptop, laptop computer",0.26,0.28,0.26,0.16
+cassette player,0.22,0.28,0.22,0.26
+"hook, claw",0.28,0.2,0.22,0.34
+"spotlight, spot",0.28,0.26,0.24,0.26
+"notebook, notebook computer",0.26,0.12,0.18,0.5
+overskirt,0.22,0.2,0.32,0.32
+"chiffonier, commode",0.22,0.2,0.34,0.36
+"night snake, hypsiglena torquata",0.26,0.24,0.3,0.34
+"sidewinder, horned rattlesnake, crotalus cerastes",0.2,0.26,0.34,0.34
+"sunglasses, dark glasses, shades",0.24,0.2,0.3,0.42
+spatula,0.16,0.24,0.34,0.46
+screwdriver,0.22,0.26,0.32,0.42
+dough,0.2,0.3,0.36,0.38
+english foxhound,0.4,0.3,0.2,0.34
+"sunscreen, sunblock, sun blocker",0.18,0.34,0.24,0.48
+"loupe, jeweler's loupe",0.26,0.26,0.24,0.5
+"cleaver, meat cleaver, chopper",0.24,0.26,0.28,0.5
+tape player,0.22,0.28,0.42,0.42
+"flute, transverse flute",0.28,0.32,0.3,0.44
+ladle,0.2,0.32,0.32,0.5
+"wool, woolen, woollen",0.28,0.34,0.34,0.38
+"backpack, back pack, knapsack, packsack, rucksack, haversack",0.28,0.28,0.42,0.42
+"bakery, bakeshop, bakehouse",0.28,0.28,0.38,0.48
+space bar,0.42,0.24,0.3,0.46
+sweatshirt,0.26,0.38,0.38,0.4
+hair spray,0.24,0.36,0.32,0.52
+cup,0.36,0.36,0.34,0.44
+"academic gown, academic robe, judge's robe",0.38,0.36,0.34,0.44
+car wheel,0.34,0.36,0.4,0.44
+"barn spider, araneus cavaticus",0.34,0.32,0.44,0.46
+mushroom,0.4,0.42,0.34,0.4
+sliding door,0.34,0.36,0.46,0.4
+"mouse, computer mouse",0.26,0.34,0.42,0.56
+eggnog,0.36,0.36,0.42,0.48
+hair slide,0.44,0.26,0.44,0.48
+sunglass,0.26,0.42,0.42,0.52
+"breastplate, aegis, egis",0.4,0.38,0.44,0.4
+"seashore, coast, seacoast, sea-coast",0.4,0.42,0.44,0.36
+cd player,0.34,0.36,0.56,0.38
+cradle,0.26,0.5,0.48,0.4
+"suit, suit of clothes",0.32,0.34,0.42,0.56
+"tobacco shop, tobacconist shop, tobacconist",0.3,0.34,0.44,0.56
+"lens cap, lens cover",0.36,0.38,0.44,0.48
+muzzle,0.26,0.34,0.44,0.62
+"rock python, rock snake, python sebae",0.3,0.3,0.46,0.6
+"spider monkey, ateles geoffroyi",0.32,0.48,0.4,0.46
+weasel,0.38,0.44,0.42,0.44
+australian terrier,0.38,0.42,0.38,0.5
+missile,0.48,0.38,0.48,0.36
+printer,0.36,0.38,0.38,0.58
+"tailed frog, bell toad, ribbed toad, tailed toad, ascaphus trui",0.42,0.34,0.38,0.56
+wine bottle,0.36,0.42,0.44,0.5
+pole,0.4,0.38,0.52,0.44
+"assault rifle, assault gun",0.48,0.44,0.48,0.36
+"microphone, mike",0.36,0.48,0.4,0.52
+water bottle,0.38,0.4,0.46,0.52
+"green lizard, lacerta viridis",0.44,0.5,0.4,0.44
+plate,0.4,0.42,0.48,0.48
+"toilet tissue, toilet paper, bathroom tissue",0.3,0.54,0.42,0.52
+plastic bag,0.4,0.36,0.5,0.54
+yorkshire terrier,0.38,0.38,0.44,0.62
+"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.46,0.32,0.56,0.48
+"frying pan, frypan, skillet",0.38,0.44,0.48,0.52
+vase,0.4,0.38,0.54,0.5
+wok,0.32,0.44,0.52,0.54
+power drill,0.44,0.34,0.44,0.62
+crutch,0.38,0.48,0.46,0.52
+envelope,0.4,0.36,0.58,0.52
+toy poodle,0.34,0.38,0.56,0.58
+buckle,0.36,0.5,0.46,0.54
+bulletproof vest,0.38,0.42,0.5,0.56
+"chocolate sauce, chocolate syrup",0.38,0.46,0.48,0.54
+"ear, spike, capitulum",0.38,0.46,0.5,0.52
+beaker,0.4,0.46,0.44,0.58
+soup bowl,0.34,0.42,0.52,0.6
+stethoscope,0.34,0.4,0.46,0.68
+stretcher,0.34,0.36,0.52,0.66
+"swimming trunks, bathing trunks",0.48,0.42,0.4,0.58
+terrapin,0.42,0.42,0.46,0.58
+"polecat, fitch, foulmart, foumart, mustela putorius",0.34,0.5,0.56,0.48
+purse,0.4,0.46,0.46,0.56
+acoustic guitar,0.34,0.44,0.52,0.6
+"bloodhound, sleuthhound",0.44,0.46,0.48,0.52
+cuirass,0.4,0.38,0.54,0.58
+minivan,0.5,0.46,0.48,0.46
+"caldron, cauldron",0.44,0.36,0.52,0.6
+egyptian cat,0.48,0.46,0.48,0.5
+green mamba,0.5,0.36,0.5,0.56
+oxygen mask,0.42,0.46,0.52,0.52
+"miniskirt, mini",0.34,0.42,0.54,0.64
+"pitcher, ewer",0.42,0.46,0.48,0.58
+stove,0.46,0.42,0.46,0.6
+"tibetan terrier, chrysanthemum dog",0.34,0.46,0.46,0.68
+miniature poodle,0.32,0.52,0.56,0.54
+pier,0.44,0.48,0.48,0.56
+"red wolf, maned wolf, canis rufus, canis niger",0.44,0.46,0.52,0.54
+"radio, wireless",0.3,0.56,0.54,0.56
+comic book,0.38,0.44,0.5,0.66
+"common newt, triturus vulgaris",0.5,0.4,0.54,0.56
+gown,0.46,0.46,0.52,0.56
+plate rack,0.5,0.44,0.48,0.58
+"restaurant, eating house, eating place, eatery",0.42,0.52,0.48,0.58
+"dishwasher, dish washer, dishwashing machine",0.46,0.48,0.52,0.56
+"lampshade, lamp shade",0.46,0.48,0.56,0.52
+"sports car, sport car",0.4,0.5,0.52,0.6
+tray,0.34,0.46,0.6,0.62
+window shade,0.46,0.44,0.5,0.62
+pencil sharpener,0.46,0.44,0.52,0.62
+"fire screen, fireguard",0.44,0.48,0.56,0.58
+"loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",0.48,0.5,0.52,0.56
+mask,0.44,0.5,0.5,0.62
+moving van,0.56,0.52,0.44,0.54
+"promontory, headland, head, foreland",0.46,0.44,0.52,0.64
+rifle,0.46,0.48,0.54,0.58
+"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",0.38,0.52,0.58,0.6
+"ballpoint, ballpoint pen, ballpen, biro",0.46,0.5,0.5,0.62
+consomme,0.5,0.44,0.56,0.58
+"crayfish, crawfish, crawdad, crawdaddy",0.4,0.6,0.48,0.6
+hatchet,0.44,0.5,0.48,0.66
+mud turtle,0.48,0.46,0.58,0.56
+packet,0.52,0.5,0.54,0.52
+"shield, buckler",0.44,0.5,0.58,0.56
+siberian husky,0.6,0.44,0.44,0.6
+tusker,0.48,0.36,0.58,0.66
+"bucket, pail",0.5,0.5,0.54,0.56
+crate,0.54,0.48,0.5,0.58
+honeycomb,0.4,0.48,0.58,0.64
+"rubber eraser, rubber, pencil eraser",0.42,0.58,0.52,0.58
+trombone,0.42,0.38,0.62,0.68
+"violin, fiddle",0.5,0.34,0.56,0.7
+black-and-tan coonhound,0.56,0.44,0.5,0.62
+"cornet, horn, trumpet, trump",0.44,0.5,0.48,0.7
+"passenger car, coach, carriage",0.4,0.54,0.56,0.62
+"american chameleon, anole, anolis carolinensis",0.36,0.58,0.64,0.56
+briard,0.52,0.54,0.52,0.56
+coffee mug,0.42,0.58,0.58,0.56
+irish wolfhound,0.44,0.54,0.6,0.56
+stole,0.5,0.5,0.54,0.6
+alligator lizard,0.48,0.48,0.58,0.62
+analog clock,0.48,0.46,0.58,0.64
+"binder, ring-binder",0.46,0.6,0.52,0.58
+dumbbell,0.44,0.5,0.48,0.74
+monastery,0.6,0.48,0.52,0.56
+"pedestal, plinth, footstall",0.5,0.52,0.56,0.58
+"american staffordshire terrier, staffordshire terrier, american pit bull terrier, pit bull terrier",0.54,0.48,0.54,0.62
+"bell cote, bell cot",0.38,0.48,0.68,0.64
+"meat loaf, meatloaf",0.44,0.54,0.6,0.6
+"quilt, comforter, comfort, puff",0.5,0.54,0.58,0.56
+shopping basket,0.52,0.52,0.48,0.66
+"thresher, thrasher, threshing machine",0.54,0.54,0.6,0.5
+vestment,0.5,0.48,0.62,0.58
+"wallet, billfold, notecase, pocketbook",0.48,0.52,0.6,0.58
+cricket,0.52,0.62,0.52,0.54
+"dock, dockage, docking facility",0.52,0.62,0.5,0.56
+"grocery store, grocery, food market, market",0.46,0.44,0.64,0.66
+magnetic compass,0.58,0.5,0.54,0.58
+"microwave, microwave oven",0.42,0.56,0.6,0.62
+neck brace,0.5,0.48,0.54,0.68
+petri dish,0.52,0.46,0.58,0.64
+entlebucher,0.54,0.44,0.46,0.78
+alp,0.58,0.5,0.62,0.52
+"lakeside, lakeshore",0.6,0.54,0.54,0.54
+library,0.46,0.5,0.58,0.68
+red wine,0.56,0.52,0.52,0.62
+strainer,0.4,0.6,0.58,0.64
+toy terrier,0.5,0.52,0.58,0.62
+"hand blower, blow dryer, blow drier, hair dryer, hair drier",0.46,0.52,0.56,0.7
+"patio, terrace",0.54,0.56,0.54,0.6
+sleeping bag,0.48,0.54,0.58,0.64
+sombrero,0.46,0.58,0.56,0.64
+sundial,0.46,0.48,0.6,0.7
+paper towel,0.4,0.5,0.62,0.74
+"ice cream, icecream",0.46,0.64,0.6,0.56
+soap dispenser,0.42,0.62,0.54,0.68
+"confectionery, confectionary, candy store",0.58,0.54,0.54,0.62
+isopod,0.5,0.5,0.54,0.74
+"leatherback turtle, leatherback, leathery turtle, dermochelys coriacea",0.48,0.54,0.6,0.66
+desktop computer,0.58,0.58,0.68,0.46
+kelpie,0.52,0.52,0.56,0.7
+"lhasa, lhasa apso",0.46,0.54,0.58,0.72
+moped,0.38,0.54,0.66,0.72
+"book jacket, dust cover, dust jacket, dust wrapper",0.54,0.52,0.6,0.64
+digital watch,0.58,0.56,0.54,0.62
+"television, television system",0.46,0.56,0.64,0.64
+french loaf,0.5,0.52,0.66,0.64
+great dane,0.5,0.48,0.64,0.7
+"hog, pig, grunter, squealer, sus scrofa",0.54,0.52,0.58,0.68
+"kit fox, vulpes macrotis",0.4,0.62,0.6,0.7
+space heater,0.54,0.62,0.56,0.6
+"tow truck, tow car, wrecker",0.52,0.56,0.58,0.66
+cowboy boot,0.44,0.58,0.58,0.74
+"switch, electric switch, electrical switch",0.6,0.62,0.54,0.58
+wooden spoon,0.42,0.54,0.62,0.76
+digital clock,0.46,0.6,0.6,0.68
+"indian elephant, elephas maximus",0.46,0.56,0.64,0.68
+lotion,0.54,0.58,0.58,0.64
+"ram, tup",0.44,0.68,0.6,0.62
+"black-footed ferret, ferret, mustela nigripes",0.5,0.56,0.64,0.66
+bottlecap,0.52,0.54,0.62,0.68
+eel,0.54,0.58,0.58,0.66
+"gar, garfish, garpike, billfish, lepisosteus osseus",0.44,0.56,0.66,0.7
+oil filter,0.52,0.62,0.6,0.62
+"patas, hussar monkey, erythrocebus patas",0.54,0.58,0.6,0.64
+"pop bottle, soda bottle",0.56,0.62,0.56,0.62
+"red fox, vulpes vulpes",0.56,0.56,0.64,0.6
+"rock crab, cancer irroratus",0.52,0.6,0.58,0.66
+sandal,0.48,0.66,0.6,0.62
+"silky terrier, sydney silky",0.48,0.56,0.66,0.66
+wall clock,0.48,0.62,0.6,0.66
+water snake,0.54,0.56,0.66,0.6
+broom,0.6,0.48,0.6,0.7
+"carpenter's kit, tool kit",0.48,0.54,0.7,0.66
+espresso maker,0.36,0.66,0.58,0.78
+"african crocodile, nile crocodile, crocodylus niloticus",0.6,0.46,0.68,0.64
+"bikini, two-piece",0.54,0.64,0.6,0.6
+"clog, geta, patten, sabot",0.56,0.54,0.62,0.66
+cocktail shaker,0.58,0.52,0.6,0.68
+"cowboy hat, ten-gallon hat",0.54,0.62,0.54,0.68
+"doormat, welcome mat",0.5,0.58,0.62,0.68
+goblet,0.54,0.58,0.6,0.66
+"coil, spiral, volute, whorl, helix",0.52,0.58,0.6,0.7
+greater swiss mountain dog,0.66,0.68,0.52,0.54
+"mailbag, postbag",0.48,0.66,0.62,0.64
+reel,0.5,0.46,0.68,0.76
+soft-coated wheaten terrier,0.6,0.42,0.66,0.72
+syringe,0.54,0.56,0.6,0.7
+"titi, titi monkey",0.52,0.56,0.66,0.66
+vine snake,0.56,0.52,0.6,0.72
+cassette,0.5,0.54,0.68,0.7
+"rocking chair, rocker",0.46,0.62,0.64,0.7
+"stopwatch, stop watch",0.52,0.62,0.56,0.72
+langur,0.62,0.54,0.58,0.68
+"maillot, tank suit",0.46,0.62,0.66,0.68
+norfolk terrier,0.54,0.6,0.62,0.66
+"paddle, boat paddle",0.56,0.62,0.6,0.64
+potpie,0.5,0.58,0.66,0.68
+"candle, taper, wax light",0.6,0.62,0.56,0.66
+"tabby, tabby cat",0.62,0.58,0.62,0.62
+"church, church building",0.56,0.62,0.54,0.72
+coffeepot,0.56,0.62,0.66,0.6
+"drum, membranophone, tympan",0.52,0.58,0.68,0.66
+espresso,0.62,0.54,0.64,0.64
+"punching bag, punch bag, punching ball, punchball",0.56,0.6,0.64,0.64
+"sandbar, sand bar",0.52,0.58,0.66,0.68
+sarong,0.54,0.6,0.6,0.7
+thimble,0.56,0.6,0.62,0.66
+umbrella,0.44,0.58,0.68,0.74
+bow,0.62,0.44,0.64,0.76
+"horned viper, cerastes, sand viper, horned asp, cerastes cornutus",0.62,0.64,0.54,0.66
+nail,0.58,0.58,0.68,0.62
+"pencil box, pencil case",0.46,0.6,0.68,0.72
+projector,0.58,0.6,0.6,0.68
+redbone,0.46,0.58,0.74,0.68
+bath towel,0.56,0.64,0.66,0.6
+"home theater, home theatre",0.54,0.66,0.6,0.66
+"leaf beetle, chrysomelid",0.54,0.58,0.68,0.66
+barbershop,0.58,0.64,0.62,0.64
+"cinema, movie theater, movie theatre, movie house, picture palace",0.6,0.6,0.62,0.66
+flat-coated retriever,0.5,0.6,0.62,0.76
+"grasshopper, hopper",0.48,0.6,0.68,0.72
+"hognose snake, puff adder, sand viper",0.52,0.62,0.64,0.7
+"scale, weighing machine",0.56,0.6,0.56,0.76
+shovel,0.48,0.64,0.62,0.74
+sock,0.5,0.68,0.66,0.64
+"bathing cap, swimming cap",0.58,0.58,0.58,0.76
+"green snake, grass snake",0.52,0.74,0.64,0.6
+"medicine chest, medicine cabinet",0.6,0.64,0.58,0.68
+miniature schnauzer,0.54,0.54,0.68,0.74
+rhodesian ridgeback,0.56,0.58,0.64,0.72
+wing,0.58,0.64,0.6,0.68
+"diamondback, diamondback rattlesnake, crotalus adamanteus",0.54,0.68,0.62,0.66
+bookcase,0.58,0.62,0.6,0.72
+barbell,0.66,0.6,0.6,0.66
+catamaran,0.52,0.64,0.72,0.64
+"diaper, nappy, napkin",0.62,0.6,0.66,0.64
+miniature pinscher,0.46,0.58,0.7,0.78
+whiskey jug,0.66,0.58,0.6,0.68
+bib,0.52,0.62,0.68,0.7
+"ice lolly, lolly, lollipop, popsicle",0.54,0.56,0.66,0.76
+boxer,0.58,0.6,0.68,0.68
+gazelle,0.56,0.62,0.64,0.72
+"long-horned beetle, longicorn, longicorn beetle",0.56,0.54,0.66,0.78
+"pickup, pickup truck",0.5,0.62,0.7,0.72
+table lamp,0.58,0.62,0.7,0.64
+sussex spaniel,0.62,0.58,0.66,0.7
+"cardigan, cardigan welsh corgi",0.44,0.62,0.72,0.78
+"otterhound, otter hound",0.7,0.54,0.64,0.68
+tripod,0.64,0.54,0.58,0.8
+"amphibian, amphibious vehicle",0.66,0.6,0.68,0.64
+band aid,0.4,0.66,0.7,0.82
+"computer keyboard, keypad",0.54,0.66,0.72,0.66
+electric guitar,0.58,0.64,0.58,0.78
+"eskimo dog, husky",0.54,0.74,0.64,0.66
+holster,0.56,0.64,0.7,0.68
+"ibizan hound, ibizan podenco",0.64,0.64,0.6,0.7
+matchstick,0.54,0.64,0.68,0.72
+modem,0.52,0.64,0.66,0.76
+"parallel bars, bars",0.6,0.58,0.74,0.66
+"spider web, spider's web",0.6,0.68,0.6,0.7
+typewriter keyboard,0.54,0.76,0.68,0.6
+"lumbermill, sawmill",0.6,0.62,0.64,0.74
+military uniform,0.58,0.66,0.62,0.74
+"staffordshire bullterrier, staffordshire bull terrier",0.62,0.58,0.7,0.7
+toaster,0.6,0.6,0.68,0.72
+"bannister, banister, balustrade, balusters, handrail",0.62,0.62,0.68,0.68
+"cucumber, cuke",0.62,0.56,0.7,0.72
+hamper,0.56,0.56,0.72,0.76
+maillot,0.52,0.58,0.72,0.78
+mink,0.52,0.7,0.72,0.66
+"pajama, pyjama, pj's, jammies",0.52,0.6,0.74,0.74
+toyshop,0.62,0.52,0.72,0.74
+irish terrier,0.56,0.6,0.68,0.76
+"can opener, tin opener",0.52,0.62,0.72,0.76
+crane,0.6,0.64,0.68,0.7
+"lynx, catamount",0.56,0.66,0.68,0.72
+shower curtain,0.6,0.7,0.62,0.7
+"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",0.6,0.58,0.72,0.74
+"hoopskirt, crinoline",0.58,0.6,0.72,0.74
+"oboe, hautboy, hautbois",0.56,0.7,0.68,0.7
+"walker hound, walker foxhound",0.62,0.66,0.64,0.72
+"wardrobe, closet, press",0.62,0.6,0.72,0.7
+suspension bridge,0.56,0.62,0.74,0.72
+bolete,0.58,0.6,0.72,0.76
+"bonnet, poke bonnet",0.62,0.64,0.66,0.74
+"cockroach, roach",0.62,0.64,0.66,0.74
+"coyote, prairie wolf, brush wolf, canis latrans",0.66,0.66,0.66,0.68
+"grille, radiator grille",0.52,0.72,0.68,0.74
+"lighter, light, igniter, ignitor",0.54,0.64,0.7,0.78
+"racer, race car, racing car",0.7,0.58,0.64,0.74
+"siamang, hylobates syndactylus, symphalangus syndactylus",0.64,0.64,0.68,0.7
+toilet seat,0.58,0.64,0.7,0.74
+"bow tie, bow-tie, bowtie",0.62,0.64,0.68,0.74
+english setter,0.66,0.62,0.66,0.74
+fiddler crab,0.62,0.58,0.72,0.76
+"grand piano, grand",0.62,0.66,0.68,0.72
+"jean, blue jean, denim",0.62,0.62,0.68,0.76
+tile roof,0.6,0.62,0.74,0.72
+"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.6,0.62,0.7,0.76
+"zucchini, courgette",0.58,0.64,0.74,0.72
+desk,0.72,0.58,0.74,0.64
+lakeland terrier,0.56,0.62,0.7,0.8
+"sax, saxophone",0.7,0.68,0.62,0.68
+yawl,0.66,0.6,0.74,0.68
+"bagel, beigel",0.58,0.64,0.7,0.78
+face powder,0.56,0.58,0.8,0.76
+"lipstick, lip rouge",0.56,0.74,0.68,0.72
+milk can,0.6,0.66,0.64,0.8
+norwich terrier,0.7,0.6,0.64,0.76
+"sea anemone, anemone",0.62,0.58,0.76,0.74
+sea snake,0.66,0.58,0.66,0.8
+"shetland sheepdog, shetland sheep dog, shetland",0.54,0.6,0.8,0.76
+waffle iron,0.56,0.66,0.7,0.78
+"ant, emmet, pismire",0.66,0.66,0.7,0.7
+border collie,0.7,0.58,0.66,0.78
+chest,0.68,0.64,0.7,0.7
+"horizontal bar, high bar",0.66,0.64,0.7,0.72
+mongoose,0.64,0.64,0.72,0.72
+poncho,0.64,0.64,0.74,0.7
+"prison, prison house",0.68,0.74,0.72,0.58
+"projectile, missile",0.58,0.64,0.74,0.76
+stage,0.62,0.64,0.68,0.78
+sturgeon,0.58,0.66,0.72,0.76
+throne,0.66,0.62,0.7,0.74
+"thunder snake, worm snake, carphophis amoenus",0.62,0.74,0.66,0.7
+"tiger shark, galeocerdo cuvieri",0.62,0.64,0.7,0.76
+"vacuum, vacuum cleaner",0.66,0.72,0.6,0.74
+wire-haired fox terrier,0.66,0.62,0.7,0.74
+butternut squash,0.54,0.68,0.74,0.76
+measuring cup,0.56,0.66,0.7,0.8
+"walking stick, walkingstick, stick insect",0.62,0.56,0.76,0.78
+maraca,0.58,0.64,0.7,0.82
+ski,0.62,0.7,0.78,0.64
+"slide rule, slipstick",0.58,0.72,0.7,0.74
+"bighorn, bighorn sheep, cimarron, rocky mountain bighorn, rocky mountain sheep, ovis canadensis",0.68,0.56,0.66,0.84
+centipede,0.62,0.72,0.64,0.76
+folding chair,0.6,0.64,0.7,0.8
+"hot pot, hotpot",0.52,0.58,0.76,0.88
+"worm fence, snake fence, snake-rail fence, virginia fence",0.72,0.6,0.66,0.76
+"african elephant, loxodonta africana",0.68,0.7,0.64,0.74
+beaver,0.64,0.7,0.68,0.74
+"cliff, drop, drop-off",0.74,0.66,0.64,0.72
+"loggerhead, loggerhead turtle, caretta caretta",0.62,0.62,0.78,0.74
+mortarboard,0.64,0.72,0.64,0.76
+nipple,0.64,0.66,0.7,0.76
+padlock,0.6,0.7,0.76,0.7
+partridge,0.68,0.62,0.64,0.82
+"sloth bear, melursus ursinus, ursus ursinus",0.62,0.64,0.74,0.76
+"electric ray, crampfish, numbfish, torpedo",0.66,0.66,0.8,0.64
+"sea cucumber, holothurian",0.64,0.7,0.72,0.72
+"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.56,0.7,0.7,0.82
+"breakwater, groin, groyne, mole, bulwark, seawall, jetty",0.7,0.68,0.66,0.74
+"flagpole, flagstaff",0.62,0.66,0.72,0.78
+torch,0.68,0.66,0.66,0.78
+trimaran,0.64,0.64,0.72,0.78
+"barracouta, snoek",0.6,0.68,0.74,0.78
+"barrow, garden cart, lawn cart, wheelbarrow",0.58,0.74,0.68,0.8
+beer glass,0.62,0.72,0.72,0.74
+"bullfrog, rana catesbeiana",0.64,0.76,0.66,0.74
+"grey fox, gray fox, urocyon cinereoargenteus",0.7,0.68,0.68,0.74
+marmoset,0.72,0.7,0.72,0.66
+"quill, quill pen",0.6,0.68,0.72,0.8
+"red-backed sandpiper, dunlin, erolia alpina",0.62,0.62,0.7,0.86
+"saluki, gazelle hound",0.66,0.66,0.64,0.84
+bee,0.64,0.7,0.78,0.68
+strawberry,0.64,0.84,0.66,0.66
+whistle,0.62,0.62,0.74,0.84
+altar,0.7,0.68,0.7,0.74
+apron,0.6,0.7,0.74,0.78
+banded gecko,0.56,0.74,0.74,0.78
+"groom, bridegroom",0.62,0.74,0.68,0.78
+kuvasz,0.68,0.68,0.72,0.74
+"perfume, essence",0.6,0.74,0.68,0.8
+"doberman, doberman pinscher",0.66,0.74,0.7,0.74
+dutch oven,0.66,0.68,0.8,0.7
+"flatworm, platyhelminth",0.46,0.76,0.74,0.88
+fountain pen,0.66,0.58,0.8,0.8
+"gasmask, respirator, gas helmet",0.6,0.66,0.78,0.8
+golden retriever,0.64,0.66,0.78,0.76
+mashed potato,0.64,0.74,0.72,0.74
+mitten,0.72,0.66,0.7,0.76
+ox,0.62,0.68,0.68,0.86
+reflex camera,0.58,0.74,0.74,0.78
+"saltshaker, salt shaker",0.64,0.66,0.8,0.74
+"solar dish, solar collector, solar furnace",0.62,0.7,0.76,0.76
+"studio couch, day bed",0.64,0.62,0.84,0.74
+"crib, cot",0.7,0.58,0.78,0.8
+"prayer rug, prayer mat",0.68,0.72,0.78,0.68
+"dingo, warrigal, warragal, canis dingo",0.66,0.68,0.76,0.76
+"scotch terrier, scottish terrier, scottie",0.68,0.74,0.68,0.76
+street sign,0.64,0.66,0.78,0.78
+cardigan,0.62,0.7,0.74,0.82
+"cab, hack, taxi, taxicab",0.64,0.74,0.68,0.82
+"french horn, horn",0.62,0.72,0.76,0.78
+giant schnauzer,0.62,0.78,0.68,0.8
+goose,0.68,0.68,0.7,0.82
+"hard disc, hard disk, fixed disk",0.6,0.7,0.74,0.84
+orange,0.68,0.74,0.74,0.72
+oxcart,0.72,0.62,0.78,0.76
+paintbrush,0.6,0.7,0.8,0.78
+"plow, plough",0.66,0.66,0.76,0.8
+pretzel,0.68,0.8,0.66,0.74
+"affenpinscher, monkey pinscher, monkey dog",0.68,0.7,0.72,0.8
+"african chameleon, chamaeleo chamaeleon",0.72,0.62,0.72,0.84
+"capuchin, ringtail, cebus capucinus",0.7,0.7,0.74,0.76
+collie,0.74,0.66,0.78,0.72
+"common iguana, iguana, iguana iguana",0.64,0.7,0.72,0.84
+palace,0.68,0.72,0.74,0.76
+"racket, racquet",0.64,0.74,0.8,0.72
+ski mask,0.64,0.76,0.74,0.76
+"warplane, military plane",0.58,0.76,0.8,0.76
+radiator,0.62,0.7,0.76,0.82
+"bouvier des flandres, bouviers des flandres",0.68,0.66,0.76,0.8
+"jaguar, panther, panthera onca, felis onca",0.66,0.68,0.76,0.8
+knee pad,0.68,0.68,0.74,0.8
+stone wall,0.74,0.66,0.76,0.74
+"black stork, ciconia nigra",0.74,0.62,0.74,0.82
+eft,0.7,0.72,0.76,0.74
+great pyrenees,0.68,0.7,0.68,0.86
+kite,0.74,0.68,0.72,0.78
+macaque,0.66,0.68,0.78,0.8
+shower cap,0.7,0.7,0.68,0.84
+whippet,0.68,0.72,0.8,0.72
+wombat,0.64,0.7,0.78,0.8
+"bathtub, bathing tub, bath, tub",0.66,0.72,0.72,0.84
+"cello, violoncello",0.68,0.72,0.74,0.8
+conch,0.72,0.66,0.76,0.8
+"dam, dike, dyke",0.68,0.72,0.74,0.8
+groenendael,0.66,0.76,0.76,0.76
+"indian cobra, naja naja",0.68,0.74,0.76,0.76
+"platypus, duckbill, duckbilled platypus, duck-billed platypus, ornithorhynchus anatinus",0.72,0.72,0.7,0.8
+running shoe,0.64,0.7,0.76,0.84
+"wolf spider, hunting spider",0.72,0.76,0.74,0.72
+"ballplayer, baseball player",0.66,0.68,0.74,0.86
+damselfly,0.68,0.66,0.76,0.84
+"gong, tam-tam",0.78,0.68,0.66,0.82
+"guinea pig, cavia cobaya",0.64,0.74,0.7,0.86
+"remote control, remote",0.6,0.78,0.7,0.86
+stingray,0.6,0.72,0.72,0.9
+"chime, bell, gong",0.7,0.76,0.68,0.8
+"impala, aepyceros melampus",0.7,0.68,0.78,0.78
+"pick, plectrum, plectron",0.74,0.72,0.7,0.78
+"chimpanzee, chimp, pan troglodytes",0.72,0.64,0.78,0.82
+convertible,0.64,0.7,0.8,0.82
+shih-tzu,0.66,0.7,0.78,0.82
+"wild boar, boar, sus scrofa",0.68,0.74,0.72,0.82
+"american lobster, northern lobster, maine lobster, homarus americanus",0.62,0.66,0.78,0.9
+burrito,0.62,0.68,0.84,0.82
+"dungeness crab, cancer magister",0.72,0.64,0.76,0.84
+"german shepherd, german shepherd dog, german police dog, alsatian",0.64,0.7,0.82,0.8
+"gila monster, heloderma suspectum",0.66,0.76,0.78,0.76
+otter,0.68,0.7,0.78,0.8
+"pekinese, pekingese, peke",0.68,0.68,0.78,0.82
+pinwheel,0.62,0.72,0.74,0.88
+standard schnauzer,0.66,0.64,0.8,0.86
+baseball,0.68,0.74,0.72,0.84
+beer bottle,0.66,0.74,0.78,0.8
+crock pot,0.7,0.72,0.76,0.8
+curly-coated retriever,0.68,0.72,0.78,0.8
+pickelhaube,0.6,0.72,0.78,0.88
+"rule, ruler",0.74,0.74,0.7,0.8
+beagle,0.72,0.64,0.8,0.82
+boathouse,0.68,0.66,0.8,0.84
+hay,0.68,0.68,0.76,0.86
+knot,0.64,0.76,0.76,0.82
+"unicycle, monocycle",0.64,0.7,0.78,0.86
+cock,0.7,0.8,0.74,0.74
+german short-haired pointer,0.72,0.74,0.72,0.82
+"newfoundland, newfoundland dog",0.6,0.74,0.8,0.86
+spaghetti squash,0.6,0.76,0.78,0.86
+teapot,0.72,0.66,0.76,0.86
+tick,0.68,0.76,0.74,0.82
+"boa constrictor, constrictor constrictor",0.7,0.76,0.76,0.78
+bull mastiff,0.64,0.72,0.84,0.8
+"dining table, board",0.74,0.72,0.74,0.8
+labrador retriever,0.64,0.68,0.78,0.9
+"madagascar cat, ring-tailed lemur, lemur catta",0.78,0.76,0.68,0.78
+park bench,0.7,0.76,0.76,0.78
+"pay-phone, pay-station",0.66,0.76,0.78,0.8
+"timber wolf, grey wolf, gray wolf, canis lupus",0.72,0.72,0.78,0.78
+"tub, vat",0.6,0.76,0.8,0.84
+"washer, automatic washer, washing machine",0.7,0.68,0.82,0.8
+japanese spaniel,0.78,0.66,0.78,0.8
+"limousine, limo",0.76,0.72,0.78,0.76
+mortar,0.68,0.76,0.74,0.84
+pill bottle,0.68,0.78,0.72,0.84
+snail,0.72,0.7,0.8,0.8
+"tricycle, trike, velocipede",0.78,0.64,0.72,0.88
+chainlink fence,0.58,0.82,0.8,0.82
+ipod,0.7,0.7,0.8,0.82
+loafer,0.66,0.7,0.8,0.86
+"malamute, malemute, alaskan malamute",0.68,0.74,0.74,0.86
+shoji,0.66,0.68,0.8,0.88
+"barrel, cask",0.74,0.72,0.78,0.78
+"king snake, kingsnake",0.66,0.82,0.8,0.74
+"corkscrew, bottle screw",0.6,0.72,0.82,0.9
+"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",0.64,0.86,0.72,0.82
+"puffer, pufferfish, blowfish, globefish",0.68,0.74,0.76,0.86
+"refrigerator, icebox",0.64,0.78,0.8,0.82
+brabancon griffon,0.74,0.66,0.76,0.88
+fly,0.7,0.72,0.74,0.88
+"handkerchief, hankie, hanky, hankey",0.68,0.72,0.8,0.84
+pillow,0.72,0.8,0.76,0.76
+"shoe shop, shoe-shop, shoe store",0.68,0.68,0.8,0.88
+"vizsla, hungarian pointer",0.72,0.82,0.7,0.8
+"beacon, lighthouse, beacon light, pharos",0.76,0.8,0.7,0.8
+crane,0.74,0.74,0.82,0.76
+"feather boa, boa",0.7,0.74,0.82,0.8
+minibus,0.74,0.74,0.74,0.84
+"pizza, pizza pie",0.74,0.74,0.82,0.76
+shopping cart,0.72,0.74,0.76,0.84
+"spotted salamander, ambystoma maculatum",0.66,0.72,0.8,0.88
+"tank, army tank, armored combat vehicle, armoured combat vehicle",0.74,0.74,0.74,0.84
+turnstile,0.72,0.78,0.76,0.8
+brittany spaniel,0.68,0.8,0.72,0.86
+"irish setter, red setter",0.74,0.78,0.72,0.82
+viaduct,0.76,0.74,0.7,0.86
+sewing machine,0.8,0.8,0.68,0.78
+bassoon,0.68,0.76,0.78,0.86
+"frilled lizard, chlamydosaurus kingi",0.74,0.68,0.82,0.84
+"greenhouse, nursery, glasshouse",0.76,0.72,0.78,0.82
+"harvestman, daddy longlegs, phalangium opilio",0.66,0.7,0.86,0.86
+"scottish deerhound, deerhound",0.74,0.74,0.78,0.82
+"hen-of-the-woods, hen of the woods, polyporus frondosus, grifola frondosa",0.78,0.66,0.84,0.8
+"bicycle-built-for-two, tandem bicycle, tandem",0.68,0.74,0.8,0.88
+border terrier,0.64,0.74,0.84,0.88
+"harvester, reaper",0.7,0.72,0.86,0.82
+"hotdog, hot dog, red hot",0.68,0.78,0.82,0.82
+kerry blue terrier,0.78,0.74,0.74,0.84
+mixing bowl,0.72,0.72,0.82,0.84
+"panpipe, pandean pipe, syrinx",0.7,0.76,0.8,0.84
+ping-pong ball,0.74,0.76,0.76,0.84
+"police van, police wagon, paddy wagon, patrol wagon, wagon, black maria",0.7,0.78,0.82,0.8
+rain barrel,0.7,0.74,0.84,0.82
+sea lion,0.76,0.72,0.82,0.8
+"seat belt, seatbelt",0.64,0.78,0.86,0.82
+tractor,0.66,0.76,0.8,0.88
+"leopard, panthera pardus",0.74,0.76,0.78,0.82
+agama,0.72,0.76,0.82,0.82
+"american alligator, alligator mississipiensis",0.66,0.8,0.84,0.82
+bubble,0.76,0.78,0.76,0.82
+french bulldog,0.66,0.78,0.82,0.86
+guacamole,0.7,0.74,0.82,0.86
+"organ, pipe organ",0.72,0.76,0.78,0.86
+abaya,0.72,0.8,0.82,0.78
+"butcher shop, meat market",0.8,0.76,0.82,0.74
+"jersey, t-shirt, tee shirt",0.74,0.74,0.84,0.8
+"pirate, pirate ship",0.8,0.78,0.78,0.76
+slug,0.74,0.78,0.8,0.8
+"teddy, teddy bear",0.7,0.78,0.76,0.88
+"traffic light, traffic signal, stoplight",0.7,0.74,0.8,0.88
+"valley, vale",0.72,0.82,0.8,0.78
+"washbasin, handbasin, washbowl, lavabo, wash-hand basin",0.74,0.82,0.82,0.74
+acorn squash,0.68,0.8,0.84,0.82
+coral reef,0.78,0.82,0.78,0.76
+schipperke,0.76,0.7,0.84,0.84
+"sealyham terrier, sealyham",0.72,0.7,0.84,0.88
+"ringneck snake, ring-necked snake, ring snake",0.72,0.8,0.8,0.82
+"electric fan, blower",0.64,0.78,0.86,0.88
+"file, file cabinet, filing cabinet",0.68,0.8,0.84,0.84
+"lacewing, lacewing fly",0.74,0.8,0.8,0.82
+"little blue heron, egretta caerulea",0.7,0.72,0.82,0.92
+sea urchin,0.7,0.82,0.82,0.82
+"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",0.72,0.78,0.82,0.84
+"water buffalo, water ox, asiatic buffalo, bubalus bubalis",0.72,0.74,0.82,0.88
+abacus,0.76,0.82,0.78,0.8
+brain coral,0.68,0.66,0.9,0.92
+"lab coat, laboratory coat",0.82,0.74,0.82,0.78
+"submarine, pigboat, sub, u-boat",0.8,0.74,0.78,0.84
+"artichoke, globe artichoke",0.74,0.78,0.86,0.8
+"brambling, fringilla montifringilla",0.78,0.78,0.78,0.84
+"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, atm",0.76,0.76,0.84,0.82
+"fox squirrel, eastern fox squirrel, sciurus niger",0.76,0.74,0.84,0.84
+guillotine,0.7,0.68,0.9,0.9
+"horse cart, horse-cart",0.76,0.78,0.8,0.84
+pomegranate,0.78,0.76,0.86,0.78
+schooner,0.76,0.8,0.78,0.84
+snorkel,0.74,0.76,0.84,0.84
+spindle,0.58,0.82,0.84,0.94
+"theater curtain, theatre curtain",0.78,0.72,0.8,0.88
+"upright, upright piano",0.74,0.8,0.82,0.82
+vault,0.74,0.7,0.84,0.9
+"axolotl, mud puppy, ambystoma mexicanum",0.78,0.74,0.8,0.86
+"squirrel monkey, saimiri sciureus",0.8,0.82,0.74,0.82
+lemon,0.78,0.82,0.8,0.78
+carbonara,0.72,0.74,0.86,0.88
+"chain saw, chainsaw",0.72,0.84,0.78,0.86
+chesapeake bay retriever,0.7,0.84,0.82,0.84
+gordon setter,0.78,0.82,0.74,0.86
+"jeep, landrover",0.8,0.76,0.78,0.86
+"ocarina, sweet potato",0.72,0.8,0.82,0.86
+"pembroke, pembroke welsh corgi",0.7,0.74,0.84,0.92
+"tree frog, tree-frog",0.78,0.74,0.78,0.9
+warthog,0.72,0.7,0.84,0.94
+banana,0.7,0.84,0.8,0.88
+"black and gold garden spider, argiope aurantia",0.84,0.74,0.76,0.88
+"box turtle, box tortoise",0.78,0.78,0.82,0.84
+"disk brake, disc brake",0.76,0.72,0.88,0.86
+hermit crab,0.74,0.76,0.82,0.9
+irish water spaniel,0.78,0.78,0.84,0.82
+menu,0.72,0.76,0.84,0.9
+"china cabinet, china closet",0.72,0.84,0.8,0.86
+"mailbox, letter box",0.78,0.8,0.78,0.86
+barometer,0.82,0.72,0.84,0.86
+bulbul,0.78,0.74,0.82,0.9
+castle,0.82,0.78,0.78,0.86
+"chambered nautilus, pearly nautilus, nautilus",0.76,0.76,0.82,0.9
+fig,0.72,0.82,0.86,0.84
+"gorilla, gorilla gorilla",0.76,0.8,0.84,0.84
+head cabbage,0.7,0.78,0.88,0.88
+"iron, smoothing iron",0.74,0.76,0.82,0.92
+kimono,0.78,0.8,0.84,0.82
+llama,0.76,0.76,0.82,0.9
+"mountain bike, all-terrain bike, off-roader",0.78,0.74,0.88,0.84
+rhinoceros beetle,0.74,0.78,0.82,0.9
+"white wolf, arctic wolf, canis lupus tundrarum",0.82,0.76,0.84,0.82
+croquet ball,0.74,0.84,0.78,0.88
+"afghan hound, afghan",0.76,0.8,0.82,0.88
+"boston bull, boston terrier",0.82,0.76,0.82,0.86
+"coho, cohoe, coho salmon, blue jack, silver salmon, oncorhynchus kisutch",0.7,0.8,0.84,0.92
+"dandie dinmont, dandie dinmont terrier",0.7,0.82,0.86,0.88
+drake,0.8,0.8,0.78,0.88
+"garden spider, aranea diademata",0.8,0.82,0.82,0.82
+golf ball,0.76,0.76,0.88,0.86
+"guenon, guenon monkey",0.78,0.74,0.88,0.86
+"howler monkey, howler",0.8,0.82,0.82,0.82
+"king crab, alaska crab, alaskan king crab, alaska king crab, paralithodes camtschatica",0.78,0.82,0.88,0.78
+"megalith, megalithic structure",0.74,0.8,0.86,0.86
+obelisk,0.72,0.8,0.88,0.86
+rottweiler,0.72,0.78,0.88,0.88
+safe,0.82,0.76,0.82,0.86
+standard poodle,0.74,0.76,0.84,0.92
+"wallaby, brush kangaroo",0.76,0.78,0.82,0.9
+"water ouzel, dipper",0.84,0.8,0.78,0.84
+weevil,0.76,0.82,0.86,0.82
+wig,0.76,0.82,0.84,0.84
+"recreational vehicle, rv, r.v.",0.82,0.78,0.8,0.86
+"accordion, piano accordion, squeeze box",0.76,0.82,0.8,0.9
+banjo,0.76,0.8,0.82,0.9
+"black widow, latrodectus mactans",0.82,0.76,0.82,0.88
+bluetick,0.78,0.82,0.78,0.9
+"cicada, cicala",0.76,0.76,0.86,0.9
+"crossword puzzle, crossword",0.72,0.8,0.86,0.9
+"garter snake, grass snake",0.72,0.84,0.8,0.92
+"gas pump, gasoline pump, petrol pump, island dispenser",0.76,0.86,0.78,0.88
+hen,0.84,0.8,0.8,0.84
+"pool table, billiard table, snooker table",0.78,0.88,0.82,0.8
+"airship, dirigible",0.72,0.8,0.88,0.9
+bittern,0.8,0.84,0.78,0.88
+coucal,0.76,0.84,0.82,0.88
+"dugong, dugong dugon",0.8,0.76,0.84,0.9
+fur coat,0.68,0.86,0.88,0.88
+jigsaw puzzle,0.74,0.76,0.86,0.94
+"piggy bank, penny bank",0.72,0.84,0.84,0.9
+speedboat,0.8,0.74,0.88,0.88
+vulture,0.8,0.76,0.9,0.84
+wreck,0.78,0.82,0.86,0.84
+"aircraft carrier, carrier, flattop, attack aircraft carrier",0.82,0.76,0.88,0.86
+cauliflower,0.72,0.84,0.86,0.9
+"chiton, coat-of-mail shell, sea cradle, polyplacophore",0.76,0.86,0.84,0.86
+"lawn mower, mower",0.78,0.82,0.82,0.9
+"orangutan, orang, orangutang, pongo pygmaeus",0.8,0.82,0.82,0.88
+papillon,0.74,0.76,0.86,0.96
+"plane, carpenter's plane, woodworking plane",0.76,0.78,0.88,0.9
+"polaroid camera, polaroid land camera",0.78,0.8,0.88,0.86
+ptarmigan,0.74,0.86,0.84,0.88
+tennis ball,0.72,0.82,0.9,0.88
+bell pepper,0.86,0.82,0.8,0.86
+"fire engine, fire truck",0.8,0.86,0.86,0.82
+"goldfish, carassius auratus",0.78,0.8,0.84,0.92
+hare,0.74,0.86,0.86,0.88
+magpie,0.8,0.8,0.82,0.92
+"meerkat, mierkat",0.8,0.8,0.82,0.92
+"norwegian elkhound, elkhound",0.74,0.84,0.86,0.9
+rugby ball,0.74,0.8,0.88,0.92
+"three-toed sloth, ai, bradypus tridactylus",0.74,0.8,0.84,0.96
+"pineapple, ananas",0.76,0.84,0.8,0.94
+anemone fish,0.7,0.8,0.9,0.96
+"chow, chow chow",0.78,0.84,0.86,0.88
+"dial telephone, dial phone",0.74,0.8,0.88,0.94
+keeshond,0.76,0.78,0.88,0.94
+"ringlet, ringlet butterfly",0.82,0.84,0.86,0.84
+rotisserie,0.76,0.84,0.88,0.88
+steel drum,0.82,0.8,0.8,0.94
+"swab, swob, mop",0.78,0.86,0.86,0.86
+west highland white terrier,0.8,0.82,0.86,0.88
+basketball,0.72,0.86,0.88,0.92
+"motor scooter, scooter",0.82,0.8,0.86,0.9
+"nematode, nematode worm, roundworm",0.76,0.84,0.92,0.86
+scuba diver,0.78,0.82,0.92,0.86
+basenji,0.78,0.86,0.8,0.94
+agaric,0.86,0.82,0.86,0.86
+"american egret, great white heron, egretta albus",0.82,0.8,0.88,0.9
+black grouse,0.8,0.86,0.84,0.9
+cannon,0.8,0.82,0.86,0.92
+"clumber, clumber spaniel",0.78,0.82,0.88,0.92
+"colobus, colobus monkey",0.82,0.86,0.86,0.86
+crash helmet,0.86,0.84,0.84,0.86
+dung beetle,0.82,0.82,0.9,0.86
+electric locomotive,0.88,0.78,0.9,0.84
+"hyena, hyaena",0.84,0.76,0.88,0.92
+jellyfish,0.74,0.88,0.88,0.9
+"komodo dragon, komodo lizard, dragon lizard, giant lizard, varanus komodoensis",0.72,0.84,0.88,0.96
+"porcupine, hedgehog",0.78,0.84,0.9,0.88
+"sulphur-crested cockatoo, kakatoe galerita, cacatua galerita",0.8,0.82,0.88,0.9
+armadillo,0.82,0.86,0.86,0.88
+birdhouse,0.84,0.8,0.88,0.9
+four-poster,0.84,0.84,0.84,0.9
+parking meter,0.8,0.84,0.86,0.92
+"pot, flowerpot",0.76,0.88,0.92,0.86
+"red-breasted merganser, mergus serrator",0.84,0.82,0.88,0.88
+"revolver, six-gun, six-shooter",0.78,0.8,0.88,0.96
+"american black bear, black bear, ursus americanus, euarctos americanus",0.88,0.86,0.88,0.82
+badger,0.76,0.9,0.84,0.94
+"basset, basset hound",0.82,0.86,0.86,0.9
+"bolo tie, bolo, bola tie, bola",0.84,0.8,0.9,0.9
+"great white shark, white shark, man-eater, man-eating shark, carcharodon carcharias",0.82,0.88,0.86,0.88
+"grey whale, gray whale, devilfish, eschrichtius gibbosus, eschrichtius robustus",0.78,0.88,0.86,0.92
+hornbill,0.8,0.82,0.88,0.94
+marmot,0.8,0.82,0.88,0.94
+mexican hairless,0.84,0.8,0.88,0.92
+mountain tent,0.78,0.84,0.92,0.9
+peacock,0.76,0.88,0.88,0.92
+scoreboard,0.86,0.88,0.88,0.82
+triceratops,0.86,0.84,0.86,0.88
+airliner,0.74,0.88,0.88,0.96
+"bobsled, bobsleigh, bob",0.82,0.82,0.88,0.94
+football helmet,0.8,0.84,0.9,0.92
+fountain,0.84,0.88,0.88,0.86
+"hippopotamus, hippo, river horse, hippopotamus amphibius",0.84,0.84,0.9,0.88
+"ice bear, polar bear, ursus maritimus, thalarctos maritimus",0.84,0.86,0.84,0.92
+"indri, indris, indri indri, indri brevicaudatus",0.8,0.82,0.9,0.94
+"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",0.86,0.86,0.9,0.84
+mosquito net,0.9,0.76,0.86,0.94
+pelican,0.8,0.84,0.88,0.94
+"sea slug, nudibranch",0.78,0.9,0.9,0.88
+toucan,0.86,0.88,0.82,0.9
+"american coot, marsh hen, mud hen, water hen, fulica americana",0.84,0.86,0.9,0.88
+"apiary, bee house",0.86,0.84,0.88,0.9
+"dishrag, dishcloth",0.78,0.84,0.94,0.92
+go-kart,0.82,0.82,0.88,0.96
+"starfish, sea star",0.8,0.86,0.9,0.92
+"stinkhorn, carrion fungus",0.78,0.9,0.92,0.88
+"streetcar, tram, tramcar, trolley, trolley car",0.86,0.86,0.86,0.9
+"container ship, containership, container vessel",0.84,0.82,0.94,0.9
+"albatross, mollymawk",0.84,0.88,0.84,0.94
+harp,0.78,0.92,0.88,0.92
+jay,0.82,0.86,0.88,0.94
+potter's wheel,0.82,0.82,0.94,0.92
+"prairie chicken, prairie grouse, prairie fowl",0.84,0.86,0.9,0.9
+"stupa, tope",0.84,0.86,0.88,0.92
+"tench, tinca tinca",0.9,0.82,0.88,0.9
+tiger beetle,0.86,0.86,0.86,0.92
+"buckeye, horse chestnut, conker",0.86,0.84,0.9,0.92
+christmas stocking,0.84,0.84,0.86,0.98
+"cougar, puma, catamount, mountain lion, painter, panther, felis concolor",0.86,0.9,0.88,0.88
+"dhole, cuon alpinus",0.84,0.88,0.9,0.9
+"ibex, capra ibex",0.86,0.82,0.88,0.96
+leafhopper,0.88,0.86,0.88,0.9
+"ruffed grouse, partridge, bonasa umbellus",0.86,0.84,0.9,0.92
+"white stork, ciconia ciconia",0.86,0.88,0.9,0.88
+komondor,0.88,0.86,0.94,0.86
+"lycaenid, lycaenid butterfly",0.82,0.94,0.9,0.88
+bedlington terrier,0.86,0.88,0.88,0.92
+blenheim spaniel,0.9,0.84,0.88,0.92
+cliff dwelling,0.84,0.84,0.94,0.92
+"indigo bunting, indigo finch, indigo bird, passerina cyanea",0.84,0.86,0.92,0.92
+"koala, koala bear, kangaroo bear, native bear, phascolarctos cinereus",0.82,0.88,0.9,0.94
+"oystercatcher, oyster catcher",0.88,0.86,0.86,0.94
+planetarium,0.88,0.84,0.88,0.94
+snowmobile,0.86,0.88,0.88,0.92
+space shuttle,0.8,0.9,0.88,0.96
+"trolleybus, trolley coach, trackless trolley",0.84,0.78,0.92,1
+weimaraner,0.86,0.88,0.88,0.92
+welsh springer spaniel,0.88,0.92,0.84,0.9
+"thatch, thatched roof",0.86,0.84,0.94,0.92
+"arctic fox, white fox, alopex lagopus",0.84,0.88,0.88,0.96
+balloon,0.86,0.88,0.9,0.92
+granny smith,0.88,0.86,0.9,0.92
+"house finch, linnet, carpodacus mexicanus",0.84,0.88,0.88,0.96
+"king penguin, aptenodytes patagonica",0.88,0.86,0.9,0.92
+malinois,0.84,0.88,0.9,0.94
+mosque,0.9,0.82,0.9,0.94
+"puck, hockey puck",0.86,0.88,0.9,0.92
+quail,0.82,0.92,0.9,0.92
+"redshank, tringa totanus",0.86,0.92,0.86,0.92
+"skunk, polecat, wood pussy",0.86,0.84,0.9,0.96
+"brass, memorial tablet, plaque",0.86,0.86,0.92,0.94
+cabbage butterfly,0.84,0.92,0.9,0.92
+dowitcher,0.88,0.9,0.9,0.9
+"garbage truck, dustcart",0.86,0.8,0.96,0.96
+"giant panda, panda, panda bear, coon bear, ailuropoda melanoleuca",0.84,0.86,0.92,0.96
+"goldfinch, carduelis carduelis",0.86,0.9,0.94,0.88
+"liner, ocean liner",0.88,0.86,0.92,0.92
+"pug, pug-dog",0.78,0.92,0.96,0.92
+"balance beam, beam",0.9,0.86,0.92,0.92
+broccoli,0.86,0.92,0.9,0.92
+"drilling platform, offshore rig",0.86,0.9,0.94,0.9
+"english springer, english springer spaniel",0.9,0.92,0.9,0.88
+"jinrikisha, ricksha, rickshaw",0.9,0.86,0.9,0.94
+"marimba, xylophone",0.84,0.88,0.9,0.98
+model t,0.86,0.86,0.9,0.98
+school bus,0.88,0.9,0.88,0.94
+tarantula,0.86,0.9,0.88,0.96
+"angora, angora rabbit",0.92,0.86,0.9,0.94
+"brown bear, bruin, ursus arctos",0.9,0.88,0.92,0.92
+car mirror,0.9,0.92,0.86,0.94
+jacamar,0.88,0.9,0.92,0.92
+macaw,0.86,0.88,0.92,0.96
+necklace,0.88,0.9,0.92,0.92
+"radio telescope, radio reflector",0.92,0.86,0.92,0.92
+screw,0.88,0.9,0.92,0.92
+"snowplow, snowplough",0.92,0.86,0.92,0.92
+"tiger, panthera tigris",0.88,0.88,0.9,0.96
+bee eater,0.88,0.86,0.94,0.96
+cheeseburger,0.86,0.86,0.96,0.96
+"saint bernard, st bernard",0.86,0.92,0.94,0.92
+"snow leopard, ounce, panthera uncia",0.88,0.94,0.9,0.92
+water tower,0.9,0.94,0.88,0.92
+"monarch, monarch butterfly, milkweed butterfly, danaus plexippus",0.88,0.9,0.92,0.94
+"rock beauty, holocanthus tricolor",0.9,0.9,0.92,0.92
+soccer ball,0.86,0.92,0.9,0.96
+"sulphur butterfly, sulfur butterfly",0.88,0.88,0.92,0.96
+trifle,0.84,0.9,0.96,0.94
+persian cat,0.84,0.94,0.94,0.94
+"picket fence, paling",0.86,0.94,0.92,0.94
+"siamese cat, siamese",0.88,0.94,0.92,0.92
+"dogsled, dog sled, dog sleigh",0.92,0.9,0.92,0.92
+hartebeest,0.86,0.92,0.92,0.96
+"paddlewheel, paddle wheel",0.88,0.9,0.9,0.98
+totem pole,0.92,0.88,0.92,0.94
+bustard,0.88,0.94,0.9,0.96
+"killer whale, killer, orca, grampus, sea wolf, orcinus orca",0.86,0.94,0.92,0.96
+lionfish,0.9,0.94,0.88,0.96
+"parachute, chute",0.94,0.88,0.92,0.94
+steam locomotive,0.86,0.94,0.96,0.92
+acorn,0.9,0.9,0.92,0.96
+baboon,0.9,0.92,0.9,0.96
+"bearskin, busby, shako",0.9,0.92,0.9,0.96
+"lion, king of beasts, panthera leo",0.92,0.86,0.96,0.94
+trilobite,0.9,0.86,0.96,0.98
+vending machine,0.88,0.92,0.96,0.94
+"african grey, african gray, psittacus erithacus",0.92,0.92,0.92,0.94
+bison,0.92,0.92,0.94,0.92
+entertainment center,0.88,0.92,0.94,0.96
+ambulance,0.9,0.9,0.96,0.96
+barn,0.92,0.9,0.94,0.96
+"cheetah, chetah, acinonyx jubatus",0.92,0.96,0.88,0.96
+"dalmatian, coach dog, carriage dog",0.94,0.92,0.92,0.94
+hummingbird,0.92,0.94,0.92,0.94
+manhole cover,0.92,0.94,0.94,0.92
+"robin, american robin, turdus migratorius",0.9,0.96,0.92,0.94
+triumphal arch,0.94,0.92,0.94,0.92
+"bullet train, bullet",0.88,0.92,0.94,0.98
+hourglass,0.9,0.9,0.94,0.98
+photocopier,0.92,0.9,0.96,0.94
+"samoyed, samoyede",0.92,0.92,0.94,0.94
+cardoon,0.94,0.92,0.94,0.94
+"oscilloscope, scope, cathode-ray oscilloscope, cro",0.94,0.9,0.94,0.96
+gondola,0.92,0.92,0.92,0.98
+lifeboat,0.92,0.92,0.94,0.96
+"arabian camel, dromedary, camelus dromedarius",0.9,0.94,0.94,0.98
+chickadee,0.86,0.94,0.98,0.98
+"european fire salamander, salamandra salamandra",0.92,0.94,0.96,0.94
+"european gallinule, porphyrio porphyrio",0.96,0.9,0.96,0.94
+sorrel,0.9,0.96,0.94,0.96
+yurt,0.9,0.92,0.98,0.96
+zebra,0.94,0.94,0.92,0.96
+bernese mountain dog,0.92,0.96,0.94,0.96
+fireboat,0.94,0.96,0.92,0.96
+pomeranian,0.94,0.94,0.96,0.94
+admiral,0.94,0.94,0.96,0.96
+"borzoi, russian wolfhound",0.88,0.98,0.96,0.98
+coral fungus,0.94,0.96,0.96,0.94
+rapeseed,0.9,0.96,0.96,0.98
+"slot, one-armed bandit",0.94,0.92,0.94,1
+canoe,0.92,0.92,0.98,0.98
+"african hunting dog, hyena dog, cape hunting dog, lycaon pictus",0.94,0.94,0.96,0.98
+gyromitra,0.94,0.94,0.96,0.98
+maypole,0.94,0.9,0.98,1
+"bald eagle, american eagle, haliaeetus leucocephalus",0.94,0.94,0.98,0.98
+"black swan, cygnus atratus",0.96,0.94,0.96,0.98
+"echidna, spiny anteater, anteater",0.9,0.98,0.98,0.98
+freight car,0.94,0.94,0.96,1
+"limpkin, aramus pictus",0.94,0.96,0.96,0.98
+"web site, website, internet site, site",0.94,0.98,0.96,0.96
+flamingo,0.9,0.98,1,0.98
+geyser,0.92,0.98,0.96,1
+hamster,0.94,0.98,0.98,0.96
+"hip, rose hip, rosehip",0.94,0.96,1,0.96
+jack-o'-lantern,0.96,0.94,0.98,0.98
+lorikeet,0.94,0.98,0.96,0.98
+"odometer, hodometer, mileometer, milometer",0.96,0.96,0.96,0.98
+"ruddy turnstone, arenaria interpres",0.96,0.96,0.98,0.96
+daisy,0.98,0.98,0.96,0.96
+"junco, snowbird",0.94,0.96,0.98,1
+earthstar,0.96,0.98,1,0.98
+"lesser panda, red panda, panda, bear cat, cat bear, ailurus fulgens",0.98,0.98,0.98,0.98
+"ostrich, struthio camelus",0.98,0.98,0.98,0.98
+leonberg,0.96,0.98,1,1
+spoonbill,0.98,0.98,0.98,1
+"proboscis monkey, nasalis larvatus",1,0.96,1,1
+"yellow lady's slipper, yellow lady-slipper, cypripedium calceolus, cypripedium parviflorum",1,0.98,1,1
